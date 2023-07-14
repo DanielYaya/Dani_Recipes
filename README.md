@@ -1,3 +1,3 @@
 # odin-recipes
 
-Live at : https://danielyaya.github.io/odin-recipes/
+Live at : https://danielyaya.github.io/Dani_Recipes/
